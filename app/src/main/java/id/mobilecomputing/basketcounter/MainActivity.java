@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+
     public void inputName(View view){
         EditText nameTimA = findViewById(R.id.edit_name_tim_a);
         EditText nameTimB = findViewById(R.id.edit_name_tim_b);
